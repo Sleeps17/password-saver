@@ -1,0 +1,2 @@
+time=2023-10-09T04:33:02.056+06:00 level=INFO source=/home/pasha/Projects/password-saver/cmd/main.go:29 msg="Logger succsesfully created" logFile=./logs/logs.out
+time=2023-10-09T04:33:02.056+06:00 level=INFO source=/home/pasha/Projects/password-saver/cmd/main.go:37 msg="Storage succsesfully created" StorageFile=./storage/storage.db
