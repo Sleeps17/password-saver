@@ -1,2 +1,6 @@
-time=2023-10-09T04:33:02.056+06:00 level=INFO source=/home/pasha/Projects/password-saver/cmd/main.go:29 msg="Logger succsesfully created" logFile=./logs/logs.out
-time=2023-10-09T04:33:02.056+06:00 level=INFO source=/home/pasha/Projects/password-saver/cmd/main.go:37 msg="Storage succsesfully created" StorageFile=./storage/storage.db
+time=2023-11-12T16:23:10.761+06:00 level=INFO source=/home/pasha/Projects/password-saver/cmd/main.go:29 msg="Logger successfully created" logFile=./logs/logs.out
+time=2023-11-12T16:23:10.762+06:00 level=INFO source=/home/pasha/Projects/password-saver/cmd/main.go:37 msg="Storage successfully created" StorageFile=./storage/storage.db
+time=2023-11-12T16:23:49.640+06:00 level=INFO source=/home/pasha/Projects/password-saver/internal/http-handlers/get/get.go:53 msg="Password get successfully" request_id=pasha/NggWHzXt3E-000002
+time=2023-11-12T16:23:59.551+06:00 level=INFO source=/home/pasha/Projects/password-saver/internal/http-handlers/getAll/getAll.go:34 msg="All passwords got succesfully" request_id=pasha/NggWHzXt3E-000003
+time=2023-11-12T16:24:50.267+06:00 level=INFO source=/home/pasha/Projects/password-saver/internal/http-handlers/reset/reset.go:59 msg="Password changed successfully" request_id=pasha/NggWHzXt3E-000004
+time=2023-11-12T16:25:12.985+06:00 level=INFO source=/home/pasha/Projects/password-saver/internal/http-handlers/delete/delete.go:51 msg="Password deleted succsecfully" request_id=pasha/NggWHzXt3E-000005
